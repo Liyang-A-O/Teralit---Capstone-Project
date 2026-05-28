@@ -1,3 +1,6 @@
 [submodule "back-end"]
 	path = back-end
 	url = https://github.com/dash4k/teralit-backend
+[submodule "data-analysis"]
+	path = data-analysis
+	url = https://github.com/Liyang-A-O/Streamlit-Teralit
