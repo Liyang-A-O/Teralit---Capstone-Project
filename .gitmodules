@@ -4,3 +4,9 @@
 [submodule "data-analysis"]
 	path = data-analysis
 	url = https://github.com/Liyang-A-O/Streamlit-Teralit
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/dash4k/teralit-frontend
+[submodule "model-inference"]
+	path = model-inference
+	url = https://github.com/dash4k/teralit-model-test
