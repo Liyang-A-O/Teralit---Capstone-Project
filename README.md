@@ -2,7 +2,7 @@
 
 > **Coding Camp 2026 × DBS Foundation** · Team CC26-PSU247 · Theme: *Healthy Lives & Well-being*
 
-Teralit is a full-stack health application that lets users upload images of skin conditions for AI-powered classification, and then chat with an AI agent about their results. The project is organized as a monorepo using Git submodules, with four separate modules covering the frontend, backend, AI model inference, and data analysis.
+Teralit is a full-stack health application that lets users upload images of skin conditions for AI-powered classification, and then chat with an AI agent about their results. The project is organized as a monorepo using Git submodules, with four separate modules covering the frontend, backend, AI model inference, and data analysis. The website can be accessed at https://www.teralit.skin/.
 
 ---
 
